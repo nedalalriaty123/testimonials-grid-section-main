@@ -198,6 +198,7 @@ article .info img {
     border-radius: 50%;
     border: 3px solid var(--Light_gray);
     margin-right: 15px;
+    width: 37px;
 }
 
 article .info .names {
